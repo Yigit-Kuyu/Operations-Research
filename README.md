@@ -1,7 +1,7 @@
 The materials for the course Operations Research. The documents will be weekly updated.
 
 
-## Algorithms
+### Heuristic Algorithms
 
 -[Genetic Algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
 
