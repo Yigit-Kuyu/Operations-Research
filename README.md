@@ -7,9 +7,9 @@ The materials for the course Operations Research. The documents will be weekly u
 
 -[Particle Swarm Optimization](https://en.wikipedia.org/wiki/Particle_swarm_optimization)
 
--[Differential Evolution Algorithm](https://en.wikipedia.org/wiki/Differential_evolution)
-
 -[Ant Colony Optimization Algorithm](https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms)
+
+-[Differential Evolution Algorithm](https://en.wikipedia.org/wiki/Differential_evolution)
 
 -[Artificial Bee Colony Algorithm](https://en.wikipedia.org/wiki/Artificial_bee_colony_algorithm)
 
