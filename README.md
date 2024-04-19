@@ -1,13 +1,13 @@
 The materials for the course Operations Research. The documents will be weekly updated.
 
-## Project groups for presentation has been partly announced. Whole members of the related group must be in the class on 19/04/24, Friday.
+## Project groups for presentation have been partly announced. Whole members of the related group must be in the class on 19/04/24, Friday.
 
 ### Project Groups
 
-1) 032190117,  032290048
-2) 032090071,  032090074
+1) 032190117,  032290048 (Done)
+2) 032090071,  032090074 (Done)
 3) 032290101,  032290016
-4) 032090014,  032190026
+4) 032090014,  032190026 (Done)
 5) 032090108 
 
 
