@@ -8,7 +8,9 @@ The materials for the course Operations Research. The documents will be weekly u
 2) 032090071,  032090074 (Done)
 3) 032290101,  032290016
 4) 032090014,  032190026 (Done)
-5) 032090108 
+5) 032090108
+6) 032290088, 032290148
+7) 032290060, 032290053
 
 
 ### Heuristic Algorithms
