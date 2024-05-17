@@ -1,6 +1,6 @@
 
 
-# *The results of the mid-term exam have been announced, click [here](https://github.com/Yigit-Kuyu/Operations-Research/blob/main/Vize.xlsxu)
+# *The results of the mid-term exam have been announced, click [here](https://github.com/Yigit-Kuyu/Operations-Research/blob/main/Vize.xlsx)
 
 ## Project groups for presentation have been partly announced. Whole members of the related group must be in the class on 19/04/24, Friday.
 
@@ -14,10 +14,10 @@
 6) 032290088, 032290148 (Done)
 7) 032290060, 032290053 (Done)
 8) 032090105, 032090075 (Done)
-9) 032090042
+9) 032090042 (X)
 10) 032190143, 032090061
-11) 032090127, 032090129
-12) 032290019, 032290033
+11) 032090127, 032090129 (X)
+12) 032290019, 032290033 (Done)
 13) 031990034, 031990008
 
 
