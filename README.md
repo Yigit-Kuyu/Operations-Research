@@ -1,4 +1,6 @@
-The materials for the course Operations Research. The documents will be weekly updated.
+
+
+# *The results of the mid-term exam have been announced, click [here](https://github.com/Yigit-Kuyu/Operations-Research/blob/main/Vize.xlsxu)
 
 ## Project groups for presentation have been partly announced. Whole members of the related group must be in the class on 19/04/24, Friday.
 
