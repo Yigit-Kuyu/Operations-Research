@@ -1,10 +1,3 @@
-
-## Final exam results have been announced, click [here](https://github.com/Yigit-Kuyu/Operations-Research/blob/main/BMB2016_Final.pdf).
-### The answers of the exam can also be found [here](https://github.com/Yigit-Kuyu/Operations-Research/blob/main/Answers.pdf).
-
-
-## Project groups for presentation have been partly announced. Whole members of the related group must be in the class on 19/04/24, Friday.
-
 ### Project Groups
 
 1) 032190117,  032290048 (Done)
