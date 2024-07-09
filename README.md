@@ -1,22 +1,5 @@
 ### Project Groups
 
-1) 032190117,  032290048 (Done)
-2) 032090071,  032090074 (Done)
-3) 032290101,  032290016 (Done)
-4) 032090014,  032190026 (Done)
-5) 032090108 (X)
-6) 032290088, 032290148 (Done)
-7) 032290060, 032290053 (Done)
-8) 032090105, 032090075 (Done)
-9) 032090042 (X)
-10) 032190143, 032090061 (X)
-11) 032090127, 032090129 (X)
-12) 032290019, 032290033 (Done)
-13) 031990060, 031990008 (Done)
-14) 032290081 (Done)
-15) 032090011, 032090049 (Done)
-
-
 ### Real-World Problems
 
 -[Vehicle Routing Problem](https://en.wikipedia.org/wiki/Genetic_algorithm](https://en.wikipedia.org/wiki/Vehicle_routing_problem)https://en.wikipedia.org/wiki/Vehicle_routing_problem)
